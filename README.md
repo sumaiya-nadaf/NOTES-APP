@@ -2,6 +2,7 @@
 
 A simple web-based Notes App that allows users to create, edit, and delete notes, with persistent storage using `localStorage`. Built with HTML, CSS, and JavaScript, this app provides a minimal interface for managing quick notes and personal ideas.
 
+
 ## Features
 
 - **Add Notes**: Write and save new notes with a single click.
@@ -18,4 +19,6 @@ A simple web-based Notes App that allows users to create, edit, and delete notes
 ## Installation and Setup
 
 1. Clone the repository:
-   git clone https://github.com/sumaiya-nadaf/NOTES-APP/new/main?readme=1
+   git clone https://github.com/sumaiya-nadaf/NOTES-APP/
+
+
